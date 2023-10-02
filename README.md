@@ -18,6 +18,6 @@ The provided code supports the following rational number arithmetic operations:
 
 ## User Input
 
-The program prompts the user to enter four different integers, which are stored as `a`, `b`, `c`, and `d`. For instance, the first rational number is represented as \( \frac{a}{b} \) and the second as \( \frac{c}{d} \). Note that entering a denominator value of `0` will result in an error message.
+The program prompts the user to enter four different integers, which are stored as `a`, `b`, `c`, and `d`. For instance, the first rational number is represented as a\b and the second as c\d. Note that entering a denominator value of `0` will result in an error message.
 
 After providing the input values, the program calculates and displays the results for addition, subtraction, multiplication, and division of the given rational numbers.
