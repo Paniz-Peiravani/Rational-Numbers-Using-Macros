@@ -7,7 +7,7 @@ This repository contains MIPS assembly language code designed for rational numbe
 Using macros is advantageous for several reasons:
 - It replaces repeated instructions with simple machine codes, reducing redundancy.
 - It avoids typing the same code repetitively, leading to more organized and readable code.
-
+ 
 ## Operations Supported
 
 The provided code supports the following rational number arithmetic operations using Marcos:
